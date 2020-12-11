@@ -1,0 +1,218 @@
+{
+    "2": {
+      "id": "avocat",
+      "nom": "Avocat",
+      "mois": "janvier,février,mars,avril,mai,décembre",
+      "image": "img/avocat.jpg"
+    },
+    "7": {
+        "id": "fraise",
+        "nom": "Fraise",
+        "mois": "avril,mai,juin",
+        "image": "img/fraise.jpg"
+    },
+    "13": {
+        "id": "melon",
+        "nom": "Melon",
+        "mois": "juin,juillet,août,septembre",
+        "image": "img/melon.jpg"
+    },
+    "17": {
+        "id": "pasteque",
+        "nom": "Pastèque",
+        "mois": "juin,juillet,août,septembre",
+        "image": "img/pasteque.jpg"
+    },
+    "1": {
+        "id": "ananas",
+        "nom": "Ananas",
+        "mois": "janvier,février,mars,avril,mai,juin,décembre",
+        "image": "img/ananas.jpg"
+    },
+    "3": {
+        "id": "banane",
+        "nom": "Banane",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/banane.jpg"
+    },
+    "5": {
+        "id": "citron",
+        "nom": "Citron",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/citron.jpg"
+    },
+    "21": {
+        "id": "rhubarbe",
+        "nom": "Rhubarbe",
+        "mois": "mai,juin",
+        "image": "img/rhubarbe.jpg"
+    },
+    "9": {
+        "id": "grenade",
+        "nom": "Grenade",
+        "mois": "janvier,octobre,novembre,décembre",
+        "image": "img/grenade.jpg"
+    },
+    "4": {
+        "id": "cerise",
+        "nom": "Cerise",
+        "mois": "mai,juin",
+        "image": "img/cerise.jpg"
+    },
+    "10": {
+        "id": "kiwi",
+        "nom": "Kiwi",
+        "mois": "janvier,février,mars,avril,septembre,octobre,novembre,décembre",
+        "image": "img/kiwi.jpg"
+    },
+    "11": {
+        "id": "mandarine",
+        "nom": "Mandarine",
+        "mois": "janvier,février,mars,avril,novembre,décembre",
+        "image": "img/mandarine.jpg"
+    },
+    "12": {
+        "id": "mangue",
+        "nom": "Mangue",
+        "mois": "janvier,février,mars,avril,mai,novembre,décembre",
+        "image": "img/mangue.jpg"
+    },
+    "16": {
+        "id": "orange",
+        "nom": "Orange",
+        "mois": "janvier,février,mars,avril,mai,juillet,novembre,décembre",
+        "image": "img/orange.jpg"
+    },
+    "18": {
+        "id": "poire",
+        "nom": "Poire",
+        "mois": "janvier,février,mars,août,septembre,octobre,novembre,décembre",
+        "image": "img/poire.jpg"
+    },
+    "19": {
+        "id": "pomme",
+        "nom": "Pomme",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/pomme.jpg"
+    },
+    "0": {
+        "id": "abricot",
+        "nom": "Abricot",
+        "mois": "juin,juillet",
+        "image": "img/abricot.jpg"
+    },
+    "6": {
+        "id": "figue",
+        "nom": "Figue",
+        "mois": "juin,juillet,août,septembre,octobre",
+        "image": "img/figue.jpg"
+    },
+    "8": {
+        "id": "framboise",
+        "nom": "Framboise",
+        "mois": "juin,juillet,août",
+        "image": "img/framboise.jpg"
+    },
+    "14": {
+        "id": "myrtille",
+        "nom": "Myrtille",
+        "mois": "juillet,août",
+        "image": "img/myrtille.jpg"
+    },
+    "23": {
+        "id": "aubergine",
+        "nom": "Aubergine",
+        "mois": "juin,juillet,août",
+        "image": "img/aubergine.jpg"
+    },
+    "30": {
+        "id": "courgette",
+        "nom": "Courgette",
+        "mois": "avril,mai,juin,juillet,août,septembre,octobre,novembre",
+        "image": "img/courgette.jpg"
+    },
+    "32": {
+        "id": "poivron",
+        "nom": "Poivron",
+        "mois": "juin,juillet,août,septembre,novembre",
+        "image": "img/poivron.jpg"
+    },
+    "22": {
+        "id": "artichaut",
+        "nom": "Artichaut",
+        "mois": "mars,avril,mai,juin,août,septembre,octobre,novembre",
+        "image": "img/artichaut.jpg"
+    },
+    "24": {
+        "id": "betterave",
+        "nom": "Betterave",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,octobre,novembre,décembre",
+        "image": "img/betterave.jpg"
+    },
+    "25": {
+        "id": "carotte",
+        "nom": "Carotte",
+        "mois": "janvier,février,mars,avril,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/carotte.jpg"
+    },
+    "26": {
+        "id": "celeri",
+        "nom": "Céleri",
+        "mois": "janvier,février,mars,mai,juin,juillet,septembre,octobre,novembre,décembre",
+        "image": "img/celeri.jpg"
+    },
+    "27": {
+        "id": "champignon",
+        "nom": "Champis",
+        "mois": "janvier,février,mars,avril,mai,juin,septembre,octobre,novembre,décembre",
+        "image": "img/champignon.jpg"
+    },
+    "28": {
+        "id": "chou-fleur",
+        "nom": "Chou-fleur",
+        "mois": "janvier,février,mars,avril,mai,juin,août,octobre,novembre,décembre",
+        "image": "img/choufleur.jpg"
+    },
+    "31": {
+        "id": "navet",
+        "nom": "Navet",
+        "mois": "janvier,février,mars,mai,juin,juillet,août,octobre,novembre,décembre",
+        "image": "img/navet.jpg"
+    },
+    "33": {
+        "id": "pomme-de-terre",
+        "nom": "P.d.T",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/pommedeterre.jpg"
+    },
+    "35": {
+        "id": "salade",
+        "nom": "Salade",
+        "mois": "janvier,février,mars,avril,mai,juin,juillet,août,septembre,octobre,novembre,décembre",
+        "image": "img/salade.jpg"
+    },
+    "34": {
+        "id": "radis",
+        "nom": "Radis",
+        "mois": "janvier,mars,avril,mai,juin,juillet,août,septembre",
+        "image": "img/radis.jpg"
+    },
+    "20": {
+        "id": "raisin",
+        "nom": "Raisin",
+        "mois": "août,septembre,octobre,novembre",
+        "image": "img/raisin.jpg"
+    },
+    "15": {
+        "id": "noix",
+        "nom": "Noix",
+        "mois": "septembre,octobre,novembre",
+        "image": "img/noix.jpg"
+    },
+    "29": {
+        "id": "chou-lisse",
+        "nom": "Chou-lisse",
+        "mois": "septembre,octobre,novembre,décembre",
+        "image": "img/choulisse.jpg"
+    }
+}
